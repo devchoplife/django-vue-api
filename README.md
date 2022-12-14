@@ -26,3 +26,13 @@ django-admin startproject djangovueapi
 ```console
 python djangovueapi/manage.py startapp api
 ```
+
+- Migrate database
+```console
+python djangovueapi/manage.py migrate
+```
+
+- Run dev server 
+```console
+python djangovueapi/manage.py runserver
+```
