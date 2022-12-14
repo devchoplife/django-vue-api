@@ -36,3 +36,15 @@ python djangovueapi/manage.py migrate
 ```console
 python djangovueapi/manage.py runserver
 ```
+
+- Create new Vue application in django project root
+```console
+cd djangovueapi
+vue init webpack apifromtend
+```
+
+- Start Vue server in Vue project directory 
+```console
+cd apifrontend
+npm run dev
+```
