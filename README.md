@@ -21,3 +21,8 @@ pip install django
 ```console
 django-admin startproject djangovueapi
 ```
+
+- Create a new django application
+```console
+python djangovueapi/manage.py startapp api
+```
