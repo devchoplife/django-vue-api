@@ -1,3 +1,4 @@
 # SIMPLE PRIVATE API BUILT WITH DJANGO AND VUE
 
-More details to follow .......
+The project was built in a windows environment
+
