@@ -48,3 +48,8 @@ vue init webpack apifromtend
 cd apifrontend
 npm run dev
 ```
+
+- Create empty migration file
+```console
+python djangovueapi/manage.py makemigrations --empty api
+```
